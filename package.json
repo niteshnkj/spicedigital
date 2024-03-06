@@ -16,10 +16,6 @@
  
   "author": "Nitesh",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Ujjwalbhardwaj/spiceDigital/issues"
-  },
-  "homepage": "https://github.com/Ujjwalbhardwaj/spiceDigital#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "colors": "^1.4.0",
